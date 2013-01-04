@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main(){
-    printf("\n");
+    printf("1234567890\n");
 }
