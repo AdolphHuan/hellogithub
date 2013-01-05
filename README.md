@@ -1,4 +1,7 @@
 testHub项目
+//////////////////////////////////////////////////////
+change something in master, then push it to branchs, and then recover
+//////////////////////////////////////////////////////
 
 这是项目 [helloworld](https://github.com/gotgithub/helloworld) ，
 欢迎访问。
